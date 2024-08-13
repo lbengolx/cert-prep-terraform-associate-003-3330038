@@ -9,8 +9,8 @@
 
 
 resource "aws_instance" "ec2-Instance2" {
-  provider      = aws.west
-  ami           = "ami-03972092c42e8c0ca"  # AMI for us-west-1
+  provider      = aws.virginia
+  ami           = "ami-0ae8f15ae66fe8cda"  # AMI for us-west-1
   instance_type = "t2.micro"
 
   tags = {                                
