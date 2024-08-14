@@ -1,3 +1,3 @@
-resource "aws_instance" "MyInstance_test" {
+resource "aws_instance" "Lore_INS" {
     #instance configuration
 }
