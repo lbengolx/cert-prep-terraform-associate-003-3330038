@@ -32,3 +32,9 @@ terraform.tfplan
 
 # Ignore specific file 'tf_sa_key'
 tf_sa_key
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> f44b627c1c35142fb4303e54f1bab3eb9de24bc1
